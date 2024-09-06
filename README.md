@@ -5,3 +5,4 @@ This is my page
 ## Workshop attended
 - Faculty Development Programme- *Instructional Design for Python Programming*
 ### Personal Details
+Assistant Professor 
